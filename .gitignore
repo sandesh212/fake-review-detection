@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Dataset and model
+fake_reviews_dataset.csv
+lstm_model.h5
+
+# Virtual environment
+env/
+venv/
